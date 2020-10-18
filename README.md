@@ -17,6 +17,9 @@ A raycasting engine for MATLAB
 <li>Q,E - strafe left/right</li>
 </ul>
 <br>
+<h3>How do you change the map?</h3>
+Easily, just change the numbers in the map matrix. Zero means empty space, other numbers mean different types of texture. You can build your own maze with it.
+<br>
 Inspired by: https://www.youtube.com/channel/UCjdHbo8_vh3rxQ-875XGkvw
 <br>
 Textures used are from Wolfenstein 3D.
