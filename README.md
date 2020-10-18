@@ -19,4 +19,6 @@ A raycasting engine for MATLAB
 <br>
 Inspired by: https://www.youtube.com/channel/UCjdHbo8_vh3rxQ-875XGkvw
 <br>
+Textures used are from Wolfenstein 3D.
+<br>
 By Wondrush, 2020
